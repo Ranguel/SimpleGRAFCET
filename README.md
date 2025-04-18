@@ -4,7 +4,7 @@ A Simple simulator for designing and testing sequential logic using GRAFCET diag
 
 ![Preview](Util/preview.png)
 
-## 🚀 Features
+## Features
 
 - Logic evaluation using inputs (`I0`, `I1`, ...) and outputs (`Q0`, `Q1`, ...)
 - Supports logical operators: `&` (AND), `|` (OR), `!` (NOT), and parentheses
