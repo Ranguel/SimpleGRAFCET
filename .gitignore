@@ -1,0 +1,11 @@
+# ignorar cache de python
+*.pyc
+__pycache__/
+
+# ignorar configuracion de VSCode
+.vscode/
+
+# ignorar archivos de sistema
+Thumbs.db
+.DS_Store
+
