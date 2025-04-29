@@ -1,4 +1,4 @@
-# Simple GRAFCET
+# SimpleGRAFCET
  
 A Simple simulator for designing and testing sequential logic using GRAFCET diagrams (commonly used in PLC systems).
 
